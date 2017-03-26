@@ -1,0 +1,346 @@
+
+
+
+/*Xtra Small Device*/
+@media (max-width: 768px) {
+              /*  Header Section Starts*/
+    
+ header{min-height: 300px;} 
+    
+.header_navigation .navbar-header{float: right;}
+.header_navigation .navbar-toggle{border: 1px solid #643a79;background color:#643a79;float: right;}
+.header_navigation .navbar{background-color: #87509c;border: 0px;z-index: 9999; }
+    
+    .header_logo img{margin-left: 5%;}
+     .header_title h1{font-family:Titillium_bold;font-size: 18px;
+    font-weight: bolder;text-align: center;
+    color: white;margin-top: 150px;}
+    
+    .header_title .btn{
+    background-color: #eb7d4b;
+    border: 0px;color: white;
+    font-family:Titillium_semibold;
+    font-size: 12px;font-weight: bold;
+    padding: 5px 40px;
+    margin-top: 10px;
+    margin: 0 auto;
+    display: block;margin-bottom: 5px;}
+    
+    /*  Header Section Ends*/
+    
+    /*  Service Section Starts*/
+    
+    
+.service_title {margin-top: 120px;}
+.service_title h1{font-size: 22px;font-family:Titillium_bold;font-weight: bolder;color: white;text-align: center;
+                  margin-bottom: 25px;text-transform: uppercase;}
+.service_title p{font-size: 16px;font-family:Titillium_semibold;color: white;
+                 text-align: center;line-height: 20px;line-height: 15px;}
+    
+.service_icon_detail img{margin: 0 auto;margin-top: 30px;}
+.service_icon_detail h4{font-family:Titillium_semibold;font-size: 24px;color: white;text-align: center;margin-top: 15px;}
+.service_icon_detail p{font-family:Titillium_regular;font-size: 18px;color: white;text-align: center;margin-bottom: 20px; }
+    
+
+    
+     /*  Service Section Ends*/
+    
+
+    
+    
+    
+    
+      /*  Team Section Starts*/
+    
+    
+.team_title h1{font-size: 22px;font-family:Titillium_bold;color: #3c4761;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;font-weight: bolder;}
+.team_title p{font-size: 15px;font-family:Titillium_semibold;color: #3c4761;
+                 text-align: center;line-height: 20px;font-weight: bold;}
+    
+.team_img_detail { margin-top: 80px;}
+.team_img_detail img{margin: 0 auto;}
+.team_img_detail h3{font-family:Titillium_bold;font-size: 24px;color: #3c4761;text-align: center;margin-top: 15px; }
+.team_img_detail h5{font-family:Titillium_semibold;font-size: 16px;color: #7fcded;text-align: center; }
+.team_img_detail p{font-family: Titillium_regular;font-size: 16px;color: #788192;display: block; text-align: center;}
+
+.team_img_detail ul{list-style: none;margin-top: 40px;padding-left: 33%;}
+.team_img_detail ul li{float: left;padding: 8 3px;background-color: #bdd1df;border-radius: 34px;margin: 0 3px;margin-bottom: 20px;}
+.team_img_detail ul a{display: block; color: white;}  
+    
+    
+     /*  Team Section Ends*/
+    
+     /*  Progress Section starts*/
+    #progress_section {
+    min-height: 450px;
+    background-color: #ffffff;
+}
+    .progress_bottom{width: 95%}
+    
+    .progress_title h1{font-size: 22px;font-family:Titillium_bold;font-weight: bolder;color: #3c4761;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;}
+.progress_title p{font-size: 14px;font-family:Titillium_semibold;color: #3c4761;
+                 text-align: center;}
+    
+    
+    
+    .progressbar_bottom_title h4{
+            font-family:Titillium_bold;
+            font-size: 08px;
+            color: #3c4761;
+            text-transform: uppercase;
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 20px;
+            padding-left: 8%;
+}
+    
+
+    
+    /*  Progress Section ends*/
+    
+      /*  Portfolio Section Starts*/
+    
+.portfolio_title h1{font-size: 22px;font-family:Titillium_bold;color: #3c4761;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;font-weight: bolder;}
+.portfolio_title p{font-size: 16px;font-family:Titillium_semibold;color: #3c4761;
+                 text-align: center;line-height: 20px;font-weight: bold;}
+    
+.portfolio_title ul{list-style: none;margin-top:50px;width: 98%;padding-left: 8%;}
+.portfolio_title ul li{float: left;padding: 0px 10px;}
+.portfolio_title ul li a{font-family:Titillium_semibold;color: #3c4761;font-size: 12px;background-color: #ebc985; border-radius: 5px;padding: 6px 8px;}
+.portfolio_title ul li a:hover{background-color: white;text-decoration: none;}
+ 
+    /*  Portfolio Section Ends*/
+      
+     /*  Review Section Starts*/
+    
+    .review_title h1{font-size: 22px;font-family:Titillium_bold;color: #ffffff;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;
+}
+.review_title p{font-size: 14px;font-family:Titillium_semibold;color: #ffffff;
+                 text-align: center;}
+    
+    
+    .review_pro_pic img{margin: 0 auto;}  
+.review_pro_details {}
+.review_pro_details .quote{font-family:Titillium_italic;font-size: 18px;color: white;text-align: left;}
+.review_pro_details .author{font-family:Titillium_bold;font-size: 22px;color: white;margin-top: 5px;text-align: left;}
+.review_pro_details .designation{font-family:Titillium_regular;font-size: 16px;color: #ffdd99;margin-top: -15px;text-align: left;}
+
+.second_row {
+    margin-top: 10px;
+}
+    
+      /*  Review Section Ends*/
+    
+    
+     /*  Contact Section Starts*/
+    .contact_title h1{font-size: 24px;font-family:Titillium_bold;color: #ffffff;text-align: center;
+                margin-bottom: 18px;text-transform: uppercase;}
+.contact_title p{font-size: 19px;font-family:Titillium_semibold;color: #ffffff;
+                 text-align: center;}
+
+    
+    
+    .contact_button {
+        margin-left: 33%;
+        overflow: hidden;
+    }
+    
+    .contact_button .btn {
+        background-color: #30bae7;
+        border: 0px;
+        font-family: Titillium_semibold;
+        font-size: 12px;
+        color: white;
+        padding: 10px 14px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    /*  Contact Section Ends*/
+    
+    
+    /*  Footer Section Starts*/
+    footer{min-height: 50px;}
+.footer_list {margin: 0 auto;}
+.footer_list ul{list-style: none;float: none;}
+.footer_list ul li{padding: 0 5px;}
+.footer_list ul li a{font-family:Titillium_semibold;font-size: 16;color: white;}
+.footer_list ul li a:hover{text-decoration: none;color: #328dc1;}
+    
+    
+    /*  Fooer Section Ends*/
+    
+    
+    
+} /*Xtra_smallsection ends here*/
+
+
+
+
+
+
+
+/* Small Device*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    /*  Header Section Starts*/
+ header{min-height: 300px;} 
+.header_navigation .navbar-toggle{border: 1px solid #643a79;background color:#643a79;float: right;}
+.header_navigation .navbar{background-color: #87509c;border: 0px;z-index: 9999; }
+    
+    .header_logo img{margin-left: 5%;}
+    
+    .header_title{margin-bottom: 40px;}
+    
+     .header_title h1{font-family:Titillium_bold;font-size: 18px;
+    font-weight: bolder;text-align: center;
+    color: white;margin-top: 150px;}
+    
+    .header_title .btn{
+    background-color: #eb7d4b;
+    border: 0px;color: white;
+    font-family:Titillium_semibold;
+    font-size: 12px;font-weight: bold;
+    padding: 5px 40px;
+    margin-top: 10px;
+    margin: 0 auto;
+    display: block;}
+            /*  Header Section Ends*/
+    
+    
+  /*  Service Section Starts*/
+    
+    
+.service_title {margin-top: 120px;}
+.service_title h1{font-size: 22px;font-family:Titillium_bold;font-weight: bolder;color: white;text-align: center;
+                  margin-bottom: 25px;text-transform: uppercase;}
+.service_title p{font-size: 16px;font-family:Titillium_semibold;color: white;
+                 text-align: center;line-height: 20px;line-height: 15px;}
+    
+.service_icon_detail img{margin: 0 auto;margin-top: 30px;}
+.service_icon_detail h4{font-family:Titillium_semibold;font-size: 24px;color: white;text-align: center;margin-top: 15px;}
+.service_icon_detail p{font-family:Titillium_regular;font-size: 18px;color: white;text-align: center;margin-bottom: 20px; }
+    
+
+    
+     /*  Service Section Ends*/  
+    
+       /*  Team Section Starts*/
+    
+    
+.team_title h1{font-size: 22px;font-family:Titillium_bold;color: #3c4761;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;font-weight: bolder;}
+.team_title p{font-size: 15px;font-family:Titillium_semibold;color: #3c4761;
+                 text-align: center;line-height: 20px;font-weight: bold;}
+    
+.team_img_detail { margin-top: 80px;}
+.team_img_detail img{margin: 0 auto;}
+.team_img_detail h3{font-family:Titillium_bold;font-size: 24px;color: #3c4761;text-align: center;margin-top: 15px; }
+.team_img_detail h5{font-family:Titillium_semibold;font-size: 16px;color: #7fcded;text-align: center; }
+.team_img_detail p{font-family: Titillium_regular;font-size: 16px;color: #788192;display: block; text-align: center;}
+
+.team_img_detail ul{list-style: none;margin-top: 40px;padding-left: 40%;}
+.team_img_detail ul li{float: left;padding: 8 3px;background-color: #bdd1df;border-radius: 34px;margin: 0 3px;margin-bottom: 20px;}
+.team_img_detail ul a{display: block; color: white;}  
+    
+    
+     /*  Team Section Ends*/
+    
+
+    /*  Portfolio Section Starts*/
+    .portfolio_title ul{list-style: none;padding-left: 30%;margin-top:50px;}
+.portfolio_title ul li{float: left;padding: 0px 18px;}
+.portfolio_title ul li a{font-family:Titillium_semibold;color: #3c4761;font-size: 14px;background-color: #ebc985; border-radius: 5px;padding: 8px 10px;}
+.portfolio_title ul li a:hover{background-color: white;text-decoration: none;}
+ 
+    /*  Portfolio Section Ends*/
+    
+    
+    
+       /*  Review Section Starts*/
+    
+    .review_title h1{font-size: 30px;font-family:Titillium_bold;color: #ffffff;text-align: center;
+                margin-bottom: 25px;text-transform: uppercase;
+}
+.review_title p{font-size: 18px;font-family:Titillium_semibold;color: #ffffff;
+                 text-align: center;}
+    
+    
+.review_pro_pic img{margin: 0 auto;}  
+.review_pro_details {}
+.review_pro_details .quote{font-family:Titillium_italic;font-size: 20px;color: white;text-align: left;}
+.review_pro_details .author{font-family:Titillium_bold;font-size: 24px;color: white;margin-top: 5px;text-align: left;}
+.review_pro_details .designation{font-family:Titillium_regular;font-size: 18px;color: #ffdd99;margin-top: -15px;text-align: left;}
+
+.second_row {
+    margin-top: 10px;
+}
+    
+      /*  Review Section Ends*/
+    
+    
+    
+    
+ /*  Footer Section Starts*/
+.footer_list {}
+.footer_list ul{list-style: none;}
+.footer_list ul li{float: left;padding: 0 8px;}
+.footer_list ul li a{font-family:Titillium_semibold;font-size: 20;color: white;}
+.footer_list ul li a:hover{text-decoration: none;color: #328dc1;}
+    
+    
+    /*  Fooer Section Ends*/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+ 
+} /*  Small Device Ends Here*/
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    
+     .team_img_detail ul{list-style: none;margin-top: 40px;padding-left: 40%;}
+    
+     /*  Footer Section Starts*/
+.footer_list {}
+.footer_list ul{list-style: none;}
+.footer_list ul li{float: left;padding: 0 8px;}
+.footer_list ul li a{font-family:Titillium_semibold;font-size: 22;color: white;}
+.footer_list ul li a:hover{text-decoration: none;color: #328dc1;}
+    
+    
+    /*  Fooer Section Ends*/
+    
+    
+    
+}
+
+@media (min-width: 1200px) {}
